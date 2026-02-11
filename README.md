@@ -3,7 +3,7 @@
 Sprite sheet animation
 
 <p align="center">
-  <video src="https://github.com/derekdip/expo-sprite-sheet-view/blob/main/screen-rec.mov" 
+  <video src="https://github.com/user-attachments/assets/72a83d49-45aa-4004-9c9e-ae992de49f2a" 
          width="600" 
          controls 
          muted>
@@ -30,8 +30,6 @@ npm install expo-sprite-sheet-view
 ```
 
 ### Configure for Android
-
-
 
 
 ### Configure for iOS
