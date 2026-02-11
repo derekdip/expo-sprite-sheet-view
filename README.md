@@ -3,7 +3,7 @@
 Sprite sheet animation
 
 <p align="center">
-  <video src="hhttps://github.com/derekdip/expo-sprite-sheet-view/blob/main/screen-rec.mov" 
+  <video src="https://github.com/derekdip/expo-sprite-sheet-view/blob/main/screen-rec.mov" 
          width="600" 
          controls 
          muted>
