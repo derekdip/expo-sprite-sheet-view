@@ -2,7 +2,7 @@
 
 Sprite sheet animation
 
-![Sprite Demo](./assets/demo.gif)
+![Sprite Demo](./demo.gif)
 
 # API documentation
 
