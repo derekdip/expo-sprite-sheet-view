@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-sprite-sheet-view": ["../src/index"],
+      "expo-sprite-sheet-view/*": ["../src/*"]
+    }
+  }
+}
