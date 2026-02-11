@@ -2,7 +2,13 @@
 
 Sprite sheet animation
 
-![Sprite Demo](./demo.gif)
+<p align="center">
+  <video src="hhttps://github.com/derekdip/expo-sprite-sheet-view/blob/main/screen-rec.mov" 
+         width="600" 
+         controls 
+         muted>
+  </video>
+</p>
 
 # API documentation
 
